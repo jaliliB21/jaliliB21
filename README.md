@@ -22,10 +22,3 @@ I'm an experienced developer in the following technologies:
 - NLP API Service: A scalable API for sentiment analysis.
 
 ---
-
-### 📫 Let's Connect
-
-Feel free to connect with me and check out my work:
-
-- Email: (Your Email Address)
-- LinkedIn: (Your LinkedIn Profile Link)
